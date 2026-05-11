@@ -1,0 +1,166 @@
+================================================================
+DIVINE WATER — WEBSITE DESIGN BRIEF
+================================================================
+Prepared by: Hoor Hanif | Creative Designer & Web Developer
+Reference: vosswaterglobal.com
+================================================================
+
+
+BRAND OVERVIEW
+--------------
+Brand Name    : Divine Water
+Tagline       : Life in every drop.
+Market        : Premium water brand
+Style Target  : Ultra minimal, clean, $50,000 website feel
+Reference     : VOSS Water Global
+
+
+----------------------------------------------------------------
+BRAND PERSONALITY
+----------------------------------------------------------------
+1. Pure     — clean, uncluttered, nothing unnecessary
+2. Elevated — this is not a commodity, it is a premium product
+3. Calm     — water is stillness, the site should breathe
+
+
+----------------------------------------------------------------
+COLOR PALETTE
+----------------------------------------------------------------
+Role                  Name              Hex
+----                  ----              ---
+Background            Pure White        #FAFAFA
+Surface / Cards       Soft White        #FFFFFF
+Primary Accent        Deep Navy         #0A1628
+Secondary Accent      Ice Blue          #D6E8F5
+Text Primary          Almost Black      #0D0D0D
+Text Secondary        Cool Gray         #6B7280
+Border                Pale Blue         #E5EEF5
+
+Rationale:
+White and navy is the language of luxury water brands globally.
+It signals purity and premium quality without trying too hard.
+Ice blue adds a subtle water reference without being obvious.
+
+
+----------------------------------------------------------------
+TYPOGRAPHY
+----------------------------------------------------------------
+Role                  Font                  Why
+----                  ----                  ---
+Display / Headlines   Cormorant Garamond    Elegant, editorial,
+                                            aristocratic — feels
+                                            expensive
+Body / UI             DM Sans               Clean, modern, highly
+                                            readable at small sizes
+Labels / Tags         DM Mono               Adds precision and data
+                                            credibility
+
+All fonts are Google Fonts — free and fast loading.
+
+
+----------------------------------------------------------------
+COPY TONE OF VOICE
+----------------------------------------------------------------
+- Short sentences. No filler words.
+- Second person — "you" not "our customers"
+- Think VOSS meets a luxury spa menu
+- Every line should feel considered and deliberate
+- No clichés. No "premium quality" or "best in class"
+
+Example headline : "Water the way nature intended."
+Example body     : "Divine is not filtered. It is not treated.
+                   It is simply water — at its most honest."
+
+
+----------------------------------------------------------------
+DESIGN PRINCIPLES
+----------------------------------------------------------------
+- Generous white space — let the product breathe
+- Typography does the heavy lifting, not graphics
+- One strong color moment — the dark navy full-width section
+- No stock photo clichés
+- Product bottle is always the hero visual
+- Smooth scroll, subtle animations, premium micro-interactions
+- Mobile responsive — breakpoints at 480px, 768px, 1024px
+- Built in HTML, CSS, and JavaScript
+
+
+----------------------------------------------------------------
+PAGE SECTIONS — 6 TOTAL
+----------------------------------------------------------------
+
+SECTION 1 — HERO
+-----------------
+Layout    : Full viewport, centered content
+Background: Water video/animation provided by client
+Content   : Brand logo (provided by client)
+            Tagline — "Life in every drop." in Cormorant
+            Garamond italic, large
+            Subheading — "Premium water. Pure source.
+            No compromises."
+            CTA Button — "Discover Divine"
+Feel      : Cinematic, still, breathtaking
+
+
+SECTION 2 — ABOUT THE BRAND
+-----------------------------
+Layout    : Two column — text left, visual right
+Content   : Short brand story paragraph
+            "Divine Water is born from nature's most pristine
+            sources, bottled with care and delivered to your
+            table with nothing added and nothing removed."
+            Minimal decorative element or product visual
+Feel      : Editorial, calm, trustworthy
+
+
+SECTION 3 — OUR PRODUCTS
+--------------------------
+Layout    : Three cards side by side
+Content   : Product name, short description, size
+            CTA on each card — "Order Now"
+Examples  : Still Water / Sparkling Water / Premium Glass Bottle
+Feel      : Clean white cards, subtle border, no heavy shadows
+
+
+SECTION 4 — WHY DIVINE
+------------------------
+Layout    : 2x2 feature grid
+Content   : 4 tiles — each with minimal icon, short title,
+            one sentence description
+Examples  :
+  - 100% Natural Source
+  - No Added Minerals
+  - Eco-Conscious Packaging
+  - Delivered Fresh
+Feel      : Light, minimal, confident
+
+
+SECTION 5 — THE SOURCE
+------------------------
+Layout    : Full width, dark navy background, white text
+Content   : Editorial statement about the water's origin
+            A pull quote or strong one-liner
+Feel      : Premium contrast moment, cinematic, intentional
+
+
+SECTION 6 — CONTACT & ORDER
+-----------------------------
+Layout    : Simple centered layout
+Content   : Email — xyz@mail.com (placeholder, to be updated)
+            Contact form — 3 fields: Name, Email, Message
+            Social media links
+Feel      : Clean, minimal, easy to use
+
+
+----------------------------------------------------------------
+TECH STACK
+----------------------------------------------------------------
+Language    : HTML5, CSS3, JavaScript (Vanilla)
+Fonts       : Google Fonts (Cormorant Garamond, DM Sans, DM Mono)
+Deployment  : Netlify
+Framework   : None — pure custom code
+Responsive  : Yes — 480px, 768px, 1024px breakpoints
+
+
+----------------------------------------------------------------
+
